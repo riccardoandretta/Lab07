@@ -1,7 +1,6 @@
 package it.polito.tdp.poweroutages.db;
 
 import java.sql.Connection;
-import java.sql.DriverManager;
 import java.sql.SQLException;
 
 import com.zaxxer.hikari.HikariConfig;
